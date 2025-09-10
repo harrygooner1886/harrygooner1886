@@ -4,9 +4,7 @@ I'm a Junior Fullstack Developer with a background in 17 years of digital media 
 
 Passionate about building scalable, user-focused applications and exploring Full-Stack, DevOps, Game Development, and AI projects. Fluent in English and Japanese, with a proven track record of creative problem-solving and cross-cultural teamwork.
 
-## 🛠️ Languages & Tools I know...but of course I'm still learning new ones 
-
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools I know...but of course I'm still learning new ones 🙂
 
 <p align="left">
   <!-- Ruby & Rails -->

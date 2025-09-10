@@ -35,10 +35,3 @@ Passionate about building scalable, user-focused applications and exploring Full
 
   <!-- Heroku -->
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" alt="Heroku"/>
-
-  <!-- OpenAI API -->
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" height="40" alt="OpenAI API"/>
-
-  <!-- GitHub Copilot -->
-  <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.165.0/1683148516000/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="Copilot"/>
-</p>

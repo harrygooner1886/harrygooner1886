@@ -9,7 +9,7 @@ Fluent in English and Japanese, I bring creative problem-solving skills and a st
 This is just the beginning of my journey — but I’m eager (and honestly pretty excited) to keep learning and growing every day. 🚀  
 
 ## 🛠️ Languages & Tools 🙂  
-*(I know these… but I’m always adding more!)*
+*(I know these… but I’m trying to add more!)*
 
 
 <p align="left">

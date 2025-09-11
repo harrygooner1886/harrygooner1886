@@ -3,10 +3,9 @@
 I'm a Junior Fullstack Developer with 17 years of experience in digital media production.  
 I recently completed a 9-week coding bootcamp at Le Wagon, where I gained hands-on experience in Full-Stack Web Development, Ruby on Rails, JavaScript, and databases.  
 
-I’m passionate about building scalable, user-focused applications and excited to keep exploring Full-Stack, DevOps, Game Development, and AI projects.  
-Fluent in English and Japanese, I bring creative problem-solving skills and a strong track record of cross-cultural teamwork.  
+I’m passionate about building scalable, user-focused applications and excited to keep exploring Full-Stack, DevOps, Game Development, and AI projects.   
 
-This is just the beginning of my journey — but I’m eager (and honestly pretty excited) to keep learning and growing every day. 🚀  
+This is just the beginning of my journey — but I’m eager to keep learning and growing every day! 🚀  
 
 ## 🛠️ Languages & Tools 🙂  
 *(I know these… but I’m trying to add more!)*

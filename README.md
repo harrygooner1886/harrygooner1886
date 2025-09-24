@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-I’m a Full Stack Developer working with Ruby on Rails and JavaScript, with hands-on experience shipping apps into production. Before coding, I spent 17 years in the media industry — which taught me how to collaborate across different regions, move fast on deadlines, and solve problems with creativity.
+I’m a full stack developer building my career in software development. I recently completed an intensive 9-week bootcamp where I designed, built, and launched web applications.
 
-Recently, I completed a 9-week Web Development bootcamp. I’m excited to keep growing in Full Stack work while exploring new technologies. 
+I’ve lived in Japan for over nine years and hold JLPT N2, which makes me comfortable working in Japanese environments and collaborating across cultures.
 
-I love the mix of logic and creativity in software, and I’m here to keep learning, building, and improving every day.  
+Before coding, I spent 17 years in media. Working under tight deadlines, coordinating with teams, and solving creative problems were part of my daily routine — strengths I now apply to software development.
+
+I’m drawn to software development for the way it combines logic and creativity. I enjoy building things people actually use, and I’m committed to learning new technologies and improving as a developer every day.  
 
 This is just the beginning of my journey — but I’m eager to see where the future takes me! 🚀
 

@@ -12,8 +12,7 @@ This is just the beginning of my journey — but I’m eager to see where the fu
 
 
 ## 🛠️ Languages & Tools 🙂  
-*(I know these… but I’m trying to add more!)*
-
+*(I know these… but I’m trying to learn and use more!)*
 
 <p align="left">
   <!-- Ruby & Rails -->
@@ -28,11 +27,22 @@ This is just the beginning of my journey — but I’m eager to see where the fu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 
   <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
 
   <!-- Bootstrap & Stimulus -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
   <img src="https://raw.githubusercontent.com/stimulusjs/stimulus/main/assets/logo.svg" width="40" height="40" alt="Stimulus"/>
+
+  <!-- React & Vite -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/>
+
+  <!-- Netlify -->
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
+
+  <!-- OpenAI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40" alt="OpenAI"/>
 
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
@@ -42,3 +52,4 @@ This is just the beginning of my journey — but I’m eager to see where the fu
 
   <!-- Heroku -->
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" alt="Heroku"/>
+</p>

@@ -24,6 +24,8 @@ This is just the beginning of my journey — but I’m eager to see where the fu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/><br><sub>HTML5</sub>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/><br><sub>CSS3</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br><sub>React</sub>
 </p>
 
 <p align="center">
@@ -35,21 +37,17 @@ This is just the beginning of my journey — but I’m eager to see where the fu
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/stimulusjs/stimulus/main/assets/logo.svg" width="50" height="50" alt="Stimulus"/><br><sub>Stimulus</sub>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br><sub>React</sub>
-</p>
-
-<p align="center">
   <img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite"/><br><sub>Vite</sub>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/><br><sub>Figma</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br><sub>GitHub</sub>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" height="50" alt="Heroku"/><br><sub>Heroku</sub>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/><br><sub>Netlify</sub>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width="50" height="50" alt="OpenAI"/><br><sub>OpenAI</sub>
 </p>

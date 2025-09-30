@@ -14,40 +14,31 @@ This is just the beginning of my journey — but I’m eager to see where the fu
 ## 🛠️ Languages & Tools 🙂  
 *(I know these… but I’m trying to learn and use more!)*
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" height="50" alt="Ruby"/><br><sub>Ruby</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="Rails"/><br><sub>Rails</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br><sub>JavaScript</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/><br><sub>HTML5</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/><br><sub>CSS3</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br><sub>React</sub>
+**Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/stimulusjs/stimulus/main/assets/logo.svg" width="40" height="40" alt="Stimulus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/>
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br><sub>MySQL</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br><sub>PostgreSQL</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/><br><sub>Bootstrap</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/stimulusjs/stimulus/main/assets/logo.svg" width="50" height="50" alt="Stimulus"/><br><sub>Stimulus</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite"/><br><sub>Vite</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/><br><sub>Figma</sub>
+**Backend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40" alt="Rails"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40" alt="OpenAI"/>
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br><sub>GitHub</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" height="50" alt="Heroku"/><br><sub>Heroku</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/><br><sub>Netlify</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width="50" height="50" alt="OpenAI"/><br><sub>OpenAI</sub>
+**Tools & Deployment**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" alt="Heroku"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
 </p>
+

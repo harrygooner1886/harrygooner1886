@@ -30,11 +30,12 @@ _(Core skills I use and actively build on)_
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL / PostgreSQL" />
-  <img 
-  src="https://upload.wikimedia.org/wikipedia/commons/1/13/OpenAI_Logo_white.svg"
+<img 
+  src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"
   width="40"
   height="40"
   alt="OpenAI"
+  style="background:#fff; padding:4px; border-radius:6px"
 />
 </p>
 

@@ -1,17 +1,3 @@
-## Hi there 👋
-
-I'm a full stack developer building my career in software development.  
-I recently completed an intensive 9-week bootcamp where I designed, built, and launched real-world web applications.
-
-I've lived in Japan for over nine years and hold **JLPT N2**, so I’m comfortable working in Japanese environments and collaborating across cultures.
-
-Before becoming a developer, I spent 17 years in media — working under pressure, coordinating with teams, and solving creative problems daily. Those strengths now fuel my approach to software development.
-
-What draws me to this field is the blend of **logic and creativity**. I love building things people actually use, and I’m committed to learning new technologies and improving every day.
-
-This is just the beginning — but I’m excited for what’s ahead. 🚀
-
-
 ---
 
 <section class="skills">
